@@ -1,4 +1,4 @@
-<h1 align="left"><strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello There, I'm <a href="https://rajatasusual.online">Rajat.</a><img src="https://raw.githubusercontent.com/rajatasusual/rajatasusual/master/gold.png" width="30px"></strong>
+<h1 align="left"><strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello There, I'm <a href="https://rajatasusual.github.io/home.html">Rajat.</a><img src="https://raw.githubusercontent.com/rajatasusual/rajatasusual/master/gold.png" width="30px"></strong>
 </h1>
 
 <h3 align="left"><strong>
