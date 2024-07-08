@@ -26,15 +26,17 @@ I have been coding since I was 12 and I do not intend to stop anytime soon.</str
 const rajatasusual = {
   education: "MBA from IE Business School, Spain","Computer Science engineer",
   otherAlias: "Technology Consultant",
-  codesIn: [, "Node.js", "Java", "C++", "HTML", "JS", "CSS", "Angular"],
-  currentlylearning: ["Nest.js", "GraphQL","AWS"],
-  toolsUsing: ["Jest", "AJV", "APIs", "npm", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
+  codesIn: [, "Node.js", "Typescrip", "Nestjs", "Java", "C++", "HTML", "JS", "CSS", "Angular"],
+  currentlylearning: ["Langchain", "LLMs", "Nest.js", "GraphQL","AWS"],
+  toolsUsing: ["Langchainjs", "Ollama", "Redis", "Jest", "AJV", "APIs", "npm", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
 }
 ```
 
 
-## I am currently working on [ONLang](https://github.com/rajatasusual/ONLang). 
-![About ONLang](https://raw.githubusercontent.com/rajatasusual/rajatasusual/master/onlang.png). 
+## I am currently working on [Llamapp](https://github.com/rajatasusual/llamapp). 
+
+![About Llamapp]([https://raw.githubusercontent.com/rajatasusual/llamapp/master/onlang.png](https://raw.githubusercontent.com/rajatasusual/llamapp/main/src/app/assets/llama.png)). 
+A Retrieval Augmented Generator (RAG) that operates entirely locally, combining document retrieval and language model generation to provide accurate and contextually relevant responses. Built with @langchain
 
 ## Here's what I've been up to off late.
 
