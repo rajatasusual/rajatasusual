@@ -35,7 +35,7 @@ const rajatasusual = {
 
 ## I am currently working on [Llamapp](https://github.com/rajatasusual/llamapp). 
 
-![About Llamapp]([https://raw.githubusercontent.com/rajatasusual/llamapp/master/onlang.png](https://raw.githubusercontent.com/rajatasusual/llamapp/main/src/app/assets/llama.png)). 
+![About Llamapp][https://raw.githubusercontent.com/rajatasusual/llamapp/master/onlang.png]. 
 A Retrieval Augmented Generator (RAG) that operates entirely locally, combining document retrieval and language model generation to provide accurate and contextually relevant responses. Built with @langchain
 
 ## Here's what I've been up to off late.
