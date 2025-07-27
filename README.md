@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey there! I'm **[Rajat](https://rajatasusual.github.io/home.html)** <img src="https://raw.githubusercontent.com/rajatasusual/rajatasusual/master/gold.png" width="35"/>
 
-### ðŸš€ Technology Consultant | Full-Stack Developer | AI Enthusiast
+### Technology Consultant | Full-Stack Developer | AI Enthusiast
 *Crafting intelligent solutions where business strategy meets cutting-edge technology*
 
 <p align="left">
@@ -12,15 +12,15 @@
 
 ---
 
-## ðŸ§  About Me
+## About Me
 
 **8+ years** of transforming complex business challenges into elegant technical solutions. From **banking infrastructure** at SociÃ©tÃ© GÃ©nÃ©rale to **AI-powered applications**, I bridge the gap between strategic business needs and innovative technology implementation.
 
 > *"I've been coding since I was 12, and I don't intend to stop anytime soon."*
 
-ðŸŽ“ **MBA from IE Business School, Spain** | Computer Science Engineer  
-ðŸ’¼ **Management Consulting @ KPMG** | Former **Specialist Software Engineer**  
-ðŸ”¬ **Currently exploring**: The intersection of **Generative AI** and **Local-First Applications**
+**MBA from IE Business School, Spain** | Computer Science Engineer  
+**Management Consulting @ KPMG** | Former **Specialist Software Engineer**  
+**Currently exploring**: The intersection of **Generative AI** and **Local-First Applications**
 
 ---
 
@@ -28,7 +28,7 @@
 
 Building the future of **privacy-first AI** - A complete Retrieval Augmented Generation (RAG) system that operates entirely locally.
 
-**ðŸŽ¯ Key Innovation:**
+** Key Innovation:**
 - **100% Local Processing** - No data leaves your machine
 - **Context-Aware Responses** - Combines document retrieval with LLM generation
 - **Enterprise-Ready** - Built with LangChain for scalability
@@ -38,7 +38,7 @@ Building the future of **privacy-first AI** - A complete Retrieval Augmented Gen
 
 ---
 
-## ðŸ› ï¸ Technology Versatility
+## Technology Versatility
 
 ### **Backend & Systems**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -72,7 +72,7 @@ Building the future of **privacy-first AI** - A complete Retrieval Augmented Gen
 
 ---
 
-## ðŸ“Š Continuous Learning Journey
+## Continuous Learning Journey
 
 ```javascript
 const rajatasusual = {
@@ -108,25 +108,25 @@ const rajatasusual = {
 
 ---
 
-## ðŸ† Professional Highlights
+## Professional Highlights
 
-**ðŸ”¹ Technology Leadership**
+** Technology Leadership**
 - Led **digital transformation** initiatives reducing compliance turnaround time by **39%**
-- Architected solutions saving **â‚¬111k+ annually** in infrastructure costs
+- Architected solutions saving **EUR 111k+ annually** in infrastructure costs
 - **Star Performer** recognition for automating testing frameworks
 
-**ðŸ”¹ Cross-Domain Excellence**
+** Cross-Domain Excellence**
 - **Financial Services**: Specialized software engineering at SociÃ©tÃ© GÃ©nÃ©rale
 - **Enterprise Solutions**: R&D development at Smarsh for top banks across America & Europe  
 - **Strategic Consulting**: Management consulting at KPMG combining tech expertise with business strategy
 
-**ðŸ”¹ Innovation Focus**
+** Innovation Focus**
 - **Open-Source Contributor**: Published multiple npm packages ([on-lang](https://www.npmjs.com/package/on-lang), [@onlang-org/onst](https://www.npmjs.com/package/@onlang-org/onst))
 - **Research Projects**: Experimenting with local AI solutions and privacy-first applications
 
 ---
 
-## ðŸ“ˆ GitHub Activity & Impact
+## GitHub Activity & Impact
 
 <p align="center">
   <img src="https://myreadme.vercel.app/api/embed/rajatasusual?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Stats" />
@@ -134,24 +134,24 @@ const rajatasusual = {
 
 ---
 
-## ðŸ¤ Let's Build Something Amazing Together
+## Let's Build Something Amazing Together
 
 **Currently interested in collaborating on:**
-- ðŸ¤– **AI/ML Projects** - Especially RAG applications and local LLM implementations
-- ðŸ¢ **Enterprise Solutions** - Scalable systems with real business impact  
-- ðŸ” **Privacy-First Tech** - Solutions that respect user data sovereignty
-- ðŸ“š **Open Source** - Contributing to the developer community
+- **AI/ML Projects** - Especially RAG applications and local LLM implementations
+- **Enterprise Solutions** - Scalable systems with real business impact  
+- **Privacy-First Tech** - Solutions that respect user data sovereignty
+- **Open Source** - Contributing to the developer community
 
 **Available for:**
-- ðŸ’¼ **Consulting** - Technology strategy and implementation guidance
-- ðŸŽ“ **Mentoring** - Helping developers bridge technical and business skills
-- ðŸš€ **Speaking** - Sharing insights on AI, business technology, and innovation
+- **Consulting** - Technology strategy and implementation guidance
+- **Mentoring** - Helping developers bridge technical and business skills
+- **Speaking** - Sharing insights on AI, business technology, and innovation
 
 ---
 
 <div align="center">
 
-### ðŸ’¬ *"Technology is best when it brings people together and solves real problems."*
+### *"Technology is best when it brings people together and solves real problems."*
 
 **Ready to create something impactful?** [Let's connect!](https://github.com/rajatasusual/rajatasusual/issues/new/choose)
 
@@ -159,6 +159,6 @@ const rajatasusual = {
 
 ---
 
-<sub>ðŸŒŸ **Building the future, one commit at a time** â€¢ Made with â¤ï¸ and lots of â˜•</sub>
+<sub> **Building the future, one commit at a time** Made with love and lots of coffee**</sub>
 
 </div>
