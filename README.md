@@ -14,7 +14,7 @@
 
 ## About Me
 
-**8+ years** of transforming complex business challenges into elegant technical solutions. From **banking infrastructure** at SociÃ©tÃ© GÃ©nÃ©rale to **AI-powered applications**, I bridge the gap between strategic business needs and innovative technology implementation.
+**8+ years** of transforming complex business challenges into elegant technical solutions. From **banking infrastructure** at Societe Generale to **AI-powered applications**, I bridge the gap between strategic business needs and innovative technology implementation.
 
 > *"I've been coding since I was 12, and I don't intend to stop anytime soon."*
 
